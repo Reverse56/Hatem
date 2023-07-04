@@ -1,17 +1,21 @@
 /**
- * @name Hatem
-*/
+ * @name Hatem Theme
+ * @description Customized Theme
+ * @author Hatem
+ * @version 1.0.0
+ * @authorId 814130242451931147
+ * @source https://github.com/Reverse56/Hatem
+ */
 
 /*hatem*/
-@import url('https://raw.githubusercontent.com/Reverse56/Hatem/main/hatem.css');
+@import url('https://reverse56.github.io/Hatem/hatem.css');
 
 /*removable addons*/
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://raw.githubusercontent.com/Reverse56/Hatem/main/Addons/IconPackEdited.css");
-@import url("https://raw.githubusercontent.com/Reverse56/Hatem/main/Addons/AvatarOnlyMemberList.css");
-@import url("https://raw.githubusercontent.com/Reverse56/Hatem/main/Addons/SimpleLessLag.css");
-@import url("https://raw.githubusercontent.com/Reverse56/Hatem/main/Addons/SimpleLessLag.css");
+@import url("https://reverse56.github.io/Addons/IconPackEdited.css");
+@import url("https://reverse56.github.io/Addons/AvatarOnlyMemberList.css");
+@import url("https://reverse56.github.io/Addons/SimpleLessLag.css");
 
 
 
@@ -129,40 +133,3 @@
 .theme-light{
 --FG-cards-banner-background: transparent!important;
 } 
-
-
-
-
-/*Permissions*/
-/*
--You do not have the rights to use our theme name hatem™ on other projects 
--You do not have the rights to remove our theme watermark in the theme
--You do not have the rights to change this theme author name to anyone
-*/
-     
-/*credits*/
-/*
-========================= hatem Squad =========================
- Wq                                       Author
- Demented_Elmo                            Co-Author
-=================================================================
- Embeds                                   by Alexis WyvernZu
- Active Now CSS                           by Cedrick
- Memberlist until hover                   by Cedrick
- Hide User Buttons until Hover            by Commie Axolotl
- Center profile badge, avatar and name    by Commie Axolotl
- Account Details Grid                     by Dablulite
- Blurple recolour                         by DevilBro
- Emoji Replace                            by DevilBro
- Settings Icons                           by DevilBro
- Connection Issue Let Me Be               by Disease
- Radial Status                            by Gibbu
- About Me Clamp                           by ItMeSarah
- Better Jump to Present Button            by Lonk
- Better Mark As Read Button               by Lonk
- IconPack                                 by Lavender
- Discolored                               by Nyri4
- Better Spotify Control                   by Uri
-=================================================================
-*/
-/*I really want to give a special shoutout to all of you for supporting me in this theme, thank you all.*/
