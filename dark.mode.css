@@ -1081,19 +1081,6 @@ div[class*="wrapper-3Un6-K"][aria-label*="Online"]
   background-color: #fe365c;
   box-shadow: 0px 0px 10px 2px #ff2d54;
 }
-/*chillax squad font and colour change*/
-[href="https\:\/\/github.com/warrayquipsome/Chillax#author"] {
-  font-family: "Libre Barcode 128 Text";
-  color: rgb(255, 161, 161) !important;
-  font-weight: 400;
-  font-size: 25px;
-}
-[href="https\:\/\/github.com/warrayquipsome/Chillax#author"]:hover {
-  font-family: "Libre Barcode 128";
-  color: rgb(255, 161, 161) !important;
-  font-weight: 400;
-  font-size: 25px;
-}
 /*custom group font*/
 .input-1nrc5P {
   overflow: visible !important;
@@ -2312,55 +2299,55 @@ li.row-uezxzk {
 .wrapper-1VLyxH > .svg-2azL_l circle {
   opacity: 0!important;
 }
-/*custom chillax theme card*/
-#Chillax-card .bd-name {
+/*custom hatem theme card*/
+#hatem-card .bd-name {
   font-size: 100px;
   text-align: left;
 }
-#Chillax-card .bd-name::after {
+#hatem-card .bd-name::after {
   font-size: 20px;
   content: "activated";
   display: block;
   margin-top: -20px;
   margin-left: 15px;
 }
-.theme-dark #Chillax-card .bd-meta {
+.theme-dark #hatem-card .bd-meta {
   margin-left: 15px;
   bottom: 25px;
   color: rgb(226, 226, 226);
 }
-#Chillax-card {
+#hatem-card {
   border: 2px solid var(--accentcolorV2);
   box-shadow: 0 0 5px var(--accentcolorV2);
 }
-#Chillax-card .bd-addon-header{
+#hatem-card .bd-addon-header{
 border-bottom: 2px solid var(--accentcolorV2);
 box-shadow: 0 0 5px var(--accentcolorV2);
 }
-#Chillax-card>*:not(#a#B) {
+#hatem-card>*:not(#a#B) {
   background: rgba(var(--accentcolor), .2)!important;
 }
-#Chillax-card .bd-description {
+#hatem-card .bd-description {
   display: none;
 }
-.theme-dark #Chillax-card [href='https\:\/\/github.com/warrayquipsome/Chillax'] {
+.theme-dark #hatem-card [href='https\:\/\/github.com/Reverse56/Hatem'] {
   color: #fff!important;
 }
-.theme-dark #Chillax-card [href='DrfX6286kF'] {
+.theme-dark #hatem-card [href='DrfX6286kF'] {
   color: #fff!important;
 }
-.bd-grid-view #Chillax-card .bd-name{
+.bd-grid-view #hatem-card .bd-name{
   font-size: 70px;
   text-align: left;
 }
-.bd-grid-view #Chillax-card .bd-name::after {
+.bd-grid-view #hatem-card .bd-name::after {
   font-size: 20px;
   content: "activated";
   display: block;
   margin-top: -15px;
   margin-left: 10px;
 }
-.theme-dark .bd-grid-view #Chillax-card .bd-meta {
+.theme-dark .bd-grid-view #hatem-card .bd-meta {
   margin-left: -50px;
   bottom: 25px;
   color: rgb(226, 226, 226);
